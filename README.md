@@ -1,5 +1,4 @@
-# Doggy Directory
-<!-- PROJECT LOGO -->
+# unit-test-jest
 <br />
 <p align="center">
   <a href="https://github.com/Cool-Runningz/doggy-directory">
